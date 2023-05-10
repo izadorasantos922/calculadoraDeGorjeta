@@ -120,6 +120,7 @@ h3{
        width: 100%;
     }
     .result button{
+        width: 100%;
         position: static;
         cursor: pointer;
         color: rgba(255, 255, 255, 0.781);
