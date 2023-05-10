@@ -1,5 +1,6 @@
 
 main{
+    position: relative;
     padding: 1.5rem;
     display: flex;
     background-color: #ffffffd2;
@@ -60,8 +61,10 @@ h3{
 }
 
 .result{
+    overflow: hidden;
+    position: relative;
     background-color: #e61a8d;
-    width: 100%;
+    width: 300px;
     padding: 1rem;
     border-radius: 12px;
 }
@@ -80,17 +83,19 @@ h3{
 
 .result .price{
     font-size: 28px;
-    margin-left: 70px;
+    margin-left: 65px;
     color: rgb(255, 226, 231);
 }
 
 .division-by-people p:last-of-type{
-    margin-left: 81px;
+    margin-left: 76px;
 }
 
 .result button{
-    width: 100%;
-    margin-top: 65px;
+    bottom: 10%;
+    right: 10px;
+    position: absolute;
+    width: 270px;
     background-color: #f571bc;
     color: #e61a8d;
     padding: 5px;
@@ -115,6 +120,7 @@ h3{
        width: 100%;
     }
     .result button{
+        position: static;
         cursor: pointer;
         color: rgba(255, 255, 255, 0.781);
         background-color: #ff7cbe;
