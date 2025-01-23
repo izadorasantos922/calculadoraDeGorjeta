@@ -1,6 +1,6 @@
 # Tip Calculator (Calculadora de Gorjeta)
 
-[English Version](#english-version)  
+[English Version](#english-version)  |  [Versão em Português](#vers%C3%A3o-em-portugu%C3%AAs)
 
 ## English Version
 
@@ -33,3 +33,31 @@ This repository contains a simple and functional Tip Calculator application. Thi
 
 ---
 
+## Versão em Português
+
+### Bem-vindo ao Repositório Calculadora de Gorjeta!
+
+Este repositório contém uma aplicação simples e funcional de calculadora de gorjetas. O app permite que os usuários calculem rapidamente o valor da gorjeta e o total da conta com base na porcentagem desejada. É perfeito para uso em restaurantes, cafés ou qualquer lugar onde gorjetas sejam comuns.
+
+### Funcionalidades
+- Insira o valor total da conta.
+- Selecione ou insira uma porcentagem de gorjeta personalizada.
+- Calcule automaticamente o valor da gorjeta e o total da conta.
+- Interface amigável e responsiva.
+
+### Tecnologias Utilizadas
+- **HTML5**: Para a estrutura da aplicação.
+- **CSS3**: Para estilização e responsividade.
+- **JavaScript**: Para a lógica e atualizações dinâmicas.
+
+### Como Começar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/izadorasantos922/calculadoraDeGorjeta.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd calculadoraDeGorjeta
+   ```
+3. Abra o arquivo `index.html` no seu navegador para começar a usar o app.
